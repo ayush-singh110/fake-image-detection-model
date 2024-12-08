@@ -1,0 +1,4 @@
+DEBUG:root:This is a debug msg
+INFO:root:This is an info
+CRITICAL:root:This is critical msg
+WARNING:root:This is wanring msg
